@@ -16,5 +16,5 @@ Shows you what the internet knows about your email address.
 
 ```bash
 git clone https://github.com/raphaelurbanek257-hub/footprint-scanner.git
-cd desktop
+cd footprint-scanner
 python footprint_scanner.py
